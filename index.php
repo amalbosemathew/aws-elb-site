@@ -169,13 +169,6 @@ canvas.particles-js-canvas-el {
   
   
   <body>
-  
-
-
-
-
-
-
 <div class="header">
 <div class="header-inner">
 <div class="container-fluid px-lg-5">
@@ -184,90 +177,23 @@ canvas.particles-js-canvas-el {
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"><i class="fas fa-bars" style="color:white;"></i></span>
   </button>
-
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">products</a>
-      </li>
-   
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          knowledge base
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">pricing</a>
-      </li>
-    </ul>
-    <form class="form-inline my-2 my-lg-0">
-      <button class="btn my-2 my-sm-0" type="submit">login</button>
-    </form>
-  </div>
 </nav>
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
 <div class="banner-section" id="particles-js">
   <div class="container">
      <div class="row d-flex justify-content-center banner-inner">
 	 <div class="col-lg-12">
 		    <div class="front-landing-text text-center">
-<h1>Get Free Website SEO Score Online</h1>
-<h2>Improve your SEO rating with the best website checker</h2>
-
-</div>
-		</div>
-	    <div class="col-lg-6  col-md-8  col-sm-12">
-		    <div class="form-section">
-              <form>
-         <div class="input-group">
+<h1>Welcome to Amal Bose Mathew's Website</h1>
   
-    <input type="text" class="form-control" id="" required="" placeholder="Enter your domain to check website health">
-	  <div class="input-group-append">
-      <button type="submit" class="submit"><span>Analyze</span></button>
-    </div>
-  </div>
-       </form>
-            </div>
-		</div>
-	 </div>
-  </div>
-  
-  </div>
-
-
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    
 	<script src="js/particles.js"></script>
 	<script src="js/app.js"></script>
- 
-   
+
    
    <script>
-
-
 </script>
-  
-  
+ 
   </body>
 </html>
